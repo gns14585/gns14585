@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=안녕하세요%20이정훈입니다.&fontSize=60&fontColor=eeeeee)
 
 
@@ -11,3 +12,4 @@
 <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=FFF"/>
 
 <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=FFF"/> <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=FFF"/> <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=FFF"/>
+</div>
