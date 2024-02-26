@@ -1,7 +1,8 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=-LeeJungHoon-&fontSize=60&fontColor=eeeeee)
+<!--![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=-LeeJungHoon-&fontSize=60&fontColor=eeeeee)-->
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=-LeeJungHoon-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 
 
