@@ -5,4 +5,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gns14585&show_icons=true&theme=radical)
 
-<img src="https://img.shields.io/badge/SpringBoot-green?style=plastic&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot&logoColor=6DB33F"/>
