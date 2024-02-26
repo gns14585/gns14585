@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=-이정훈-&fontSize=60&fontColor=eeeeee)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=-LeeJungHoon-&fontSize=60&fontColor=eeeeee)
 
 
 
