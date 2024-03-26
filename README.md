@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=FFF"/>
 
 <h3><strong>ETC</strong></h3>
-<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=FFF"/> <img <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=FFF"/> <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=FFF"/> <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=FFF"/> <img <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=FFF"/> <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=FFF"/> <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=FFF"/> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFF"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gns14585&layout=compact&theme=omni)
 
