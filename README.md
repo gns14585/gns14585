@@ -16,6 +16,7 @@
 <br/>
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFF" />
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF" />
+<img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=FFF"/>
 
 
 
