@@ -11,8 +11,7 @@
 
 <h3><strong>Frontend</strong></h3>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFF"/> <!-- 리액트 -->
-<img src="https://img.shields.io/badge/chakraui-319795?style=for-the-badge&logo=chakraui&logoColor=FFF"/> <!-- 차크라UI -->
-<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=FFF"/> <!-- AXIOS -->
+<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=FFF"/> <!-- Vue -->
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF" /> <!-- 타입스크립트 -->
 
 <br/>
