@@ -11,12 +11,12 @@
 
 <h3><strong>Frontend</strong></h3>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFF"/> <!-- 리액트 -->
-<img src="https://img.shields.io/badge/vue3-4FC08D?style=for-the-badge&logo=vue&logoColor=FFF"/> <!-- Vue -->
+<img src="https://img.shields.io/badge/vue 3-4FC08D?style=for-the-badge&logo=vue&logoColor=FFF"/> <!-- Vue -->
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF" /> <!-- 타입스크립트 -->
 
 <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/> <!-- HTML -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/> <!-- CSS -->
+<img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/> <!-- HTML -->
+<img src="https://img.shields.io/badge/CSS 3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/> <!-- CSS -->
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"/> <!-- JavaScript -->
 
 <br/>
@@ -30,7 +30,7 @@
 
 <h3><strong>Backend</strong></h3>
 <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=6DB33F"/> <!-- 스프링부트 -->
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <!-- 자바 -->
+<img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <!-- 자바 -->
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=FFF"/> <!-- 마리아DB -->
 
 <h3><strong>ETC</strong></h3>
