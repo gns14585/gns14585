@@ -1,4 +1,4 @@
-![image](https://github.com/gns14585/gns14585/assets/120317387/2edb4693-d26d-430f-934d-ce1bab5bc1ed)<div align="center">
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gray&height=300&section=header&text=-LeeJungHoon-&fontSize=60&fontColor=808080)
