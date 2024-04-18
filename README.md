@@ -21,6 +21,7 @@
 <br/>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFF"/> <!-- 테일윈드CSS -->
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=FFF"/> <!-- Sass -->
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFF"/> <!-- BootStrap -->
 
 <br/>
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFF" /> <!-- 플러터 -->
