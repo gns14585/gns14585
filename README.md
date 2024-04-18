@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/gns14585/gns14585/assets/120317387/2edb4693-d26d-430f-934d-ce1bab5bc1ed)<div align="center">
 
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gray&height=300&section=header&text=-LeeJungHoon-&fontSize=60&fontColor=808080)
@@ -21,6 +21,7 @@
 
 <br/>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFF"/> <!-- 테일윈드CSS -->
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=FFF"/> <!-- Sass -->
 
 <br/>
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFF" /> <!-- 플러터 -->
