@@ -31,7 +31,9 @@
 
 <h3><strong>Backend</strong></h3>
 <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=6DB33F"/> <!-- 스프링부트 -->
-<img src="https://img.shields.io/badge/SpringBootSecurity-green?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/SpringBootSecurity-green?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" /> <!-- 스프링부트 시큐리티 -->
+<br/>
+
 <img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <!-- 자바 -->
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=FFF"/> <!-- 마리아DB -->
 
