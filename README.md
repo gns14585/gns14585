@@ -24,9 +24,7 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=FFF"/> <!-- Sass -->
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFF"/> <!-- BootStrap -->
 
-<br/>
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFF" /> <!-- 플러터 -->
-<img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=FFF"/> <!-- 리액트 네이티브 -->
+
 
 
 
